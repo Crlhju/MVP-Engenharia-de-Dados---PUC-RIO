@@ -256,7 +256,7 @@ Este MVP cumpriu com sucesso o objetivo de analisar criticamente os dados musica
 
 **Juliano Faiolo Terto de Oliveira**  
 Aluno da Pós-graduação em Ciência de Dados e Analytics – PUC-Rio  
-GitHub: [@julianofaiolo](https://github.com/julianofaiolo)  
+GitHub: [@julianofaiolo](https://https://github.com/Crlhju)  
 
 
 
