@@ -147,6 +147,7 @@ As análises foram realizadas utilizando **Spark SQL** no Databricks, baseando-s
 ⚠️ **Também não**. Novamente, a ausência de registros simultâneos de vendas e streams impede correlações diretas.
 ![image](https://github.com/user-attachments/assets/2b0f630a-65d3-4045-9194-ec44069f07f2)
 ![image](https://github.com/user-attachments/assets/1ae253e0-267f-4779-af4e-bd3780da6e94)
+
 ---
 
 #### 📌 Pergunta 5:
@@ -186,6 +187,7 @@ As análises foram realizadas utilizando **Spark SQL** no Databricks, baseando-s
 ❌ **Não de forma consistente**. O impacto parece depender do artista participante. Feats. com grandes nomes têm melhor desempenho, mas não é regra geral.
   ![image](https://github.com/user-attachments/assets/077ca3f5-4762-456a-80be-e328277cd3e0)
   ![image](https://github.com/user-attachments/assets/bd8fb50f-efb0-4216-9c65-d25f33819657)
+  
 ---
 
 ## ✅ Conclusão Parcial
